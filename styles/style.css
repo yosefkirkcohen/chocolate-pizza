@@ -41,3 +41,19 @@ hr {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+.list {
+    background-image: url('/assets/list-bg.png');
+    height: 250px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    font-size: 130%;
+}
+
+ul {
+    list-style-type: "\2610   ";
+}
+
+.checked {
+    list-style-type: "\2611   ";
+}
