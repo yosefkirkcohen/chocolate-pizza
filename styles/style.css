@@ -41,3 +41,8 @@ hr {
     display: grid;
     grid-template-columns: 1fr 1fr;
 }
+
+.list {
+    background-image: url('/assets/list-bg.png');
+    height: 250px;
+}
