@@ -18,3 +18,26 @@ header {
 /* .delicious {
     line-height: ;
 } */
+
+.bodyheader {
+    margin-bottom: 0px;
+    font-size: 200%;
+    font-weight: bold;
+}
+.postedon {
+    margin-top: 0px;
+    color: gray;
+    font-size: 80%;
+}
+
+hr {
+    margin-top: 30px;
+    height: 12px;
+    background-color: lightgray;
+
+}
+
+.bodyheadcontainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
