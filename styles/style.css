@@ -49,3 +49,11 @@ hr {
     grid-template-columns: 1fr 1fr;
     font-size: 130%;
 }
+
+ul {
+    list-style-type: "\2610   ";
+}
+
+.checked {
+    list-style-type: "\2611   ";
+}
