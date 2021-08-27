@@ -21,6 +21,12 @@ header {
     font-family: 'Parisienne', cursive;
     font-weight: 900;
 }
+
+.best-food {
+    margin-bottom: 0px;
+    margin-top: -12px;
+}
+
 /* .delicious {
     line-height: ;
 } */
@@ -38,6 +44,7 @@ header {
 
 hr {
     margin-top: 30px;
+    margin-bottom: 20px;
     height: 12px;
     background-color: lightgray;
 
@@ -101,4 +108,20 @@ button {
 
 .enthusiast {
     width: 500px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img {
+    margin-bottom: 30px;
+}
+
+.copyright {
+    color: grey;
+}
+
+.bottom-line {
+    height: 1px;
 }
