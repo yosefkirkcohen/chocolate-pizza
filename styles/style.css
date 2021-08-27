@@ -1,4 +1,10 @@
 
+body {
+    align-items: center;
+    padding-left: 80px;
+    padding-right: 50px;
+}
+
 header {
     
     display: grid;
@@ -56,4 +62,20 @@ ul {
 
 .checked {
     list-style-type: "\2611   ";
+}
+.print-logo {
+    text-align: right;
+    
+    border: solid 1px black;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    
+}
+
+.print-logo img {
+    height: 15px;
+    
+    display: inline-block;
 }
