@@ -65,8 +65,6 @@ ul {
 }
 .print-logo {
     text-align: right;
-    
-    border: solid 1px black;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -78,4 +76,29 @@ ul {
     height: 15px;
     
     display: inline-block;
+}
+
+.vanessa {
+    display: flex;
+    flex-direction: row;
+}
+.vanessa img {
+    margin-right: 25px;
+}
+
+footer {
+    margin-top: 100px;
+}
+
+button {
+    margin-left: 80px;
+    background-color: rgb(185, 70, 24);
+    color: white;
+    height: 50px;
+    width: 150px;
+    border: none;
+}
+
+.enthusiast {
+    width: 500px;
 }
